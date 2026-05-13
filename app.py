@@ -5,3 +5,5 @@ def calculator_tva(price_ht: float) -> float:
 ##---------
 def convert_to_dollar(price_euro: float) -> float:
     return price_euro * 1.10
+
+##-------
